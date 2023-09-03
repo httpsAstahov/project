@@ -12,3 +12,4 @@ const storeDescription = {
 	open: true,
 };
 
+console.log(storeDescription);
